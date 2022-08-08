@@ -1,0 +1,166 @@
+2022-06-21 23:28:45.701 plugin-container[39314:437688] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:28:45.702 plugin-container[39314:437688] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:28:45.711 plugin-container[39314:437688] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:28:45.711 plugin-container[39314:437688] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:28:45.712 plugin-container[39314:437705] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:28:45.712 plugin-container[39314:437705] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+2022-06-21 23:29:03.119 plugin-container[39349:438422] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:29:03.120 plugin-container[39349:438422] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:29:03.123 plugin-container[39349:438422] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:29:03.123 plugin-container[39349:438422] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:29:03.123 plugin-container[39349:438420] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:29:03.123 plugin-container[39349:438420] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+2022-06-21 23:29:37.083 plugin-container[39398:439124] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:29:37.083 plugin-container[39398:439124] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:29:37.086 plugin-container[39398:439124] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:29:37.086 plugin-container[39398:439124] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:29:37.086 plugin-container[39398:439126] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:29:37.086 plugin-container[39398:439126] nil host used in call to allowsAnyHTTPSCertificateForHost:
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+2022-06-21 23:29:53.144 plugin-container[39431:439635] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:29:53.144 plugin-container[39431:439635] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:29:53.147 plugin-container[39431:439635] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:29:53.147 plugin-container[39431:439635] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:29:53.147 plugin-container[39431:439642] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:29:53.147 plugin-container[39431:439642] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+2022-06-21 23:30:59.442 plugin-container[39523:440698] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:30:59.442 plugin-container[39523:440698] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:30:59.445 plugin-container[39523:440698] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:30:59.445 plugin-container[39523:440698] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:30:59.445 plugin-container[39523:440702] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:30:59.445 plugin-container[39523:440702] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+2022-06-21 23:32:49.807 plugin-container[39667:442296] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:32:49.807 plugin-container[39667:442296] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:32:49.809 plugin-container[39667:442296] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:32:49.809 plugin-container[39667:442296] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:32:49.810 plugin-container[39667:442294] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:32:49.810 plugin-container[39667:442294] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+2022-06-21 23:33:09.087 plugin-container[39699:442893] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:33:09.088 plugin-container[39699:442893] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:33:09.091 plugin-container[39699:442893] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:33:09.091 plugin-container[39699:442893] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:33:09.091 plugin-container[39699:442898] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:33:09.091 plugin-container[39699:442898] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+2022-06-21 23:35:42.719 plugin-container[39930:445219] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:35:42.719 plugin-container[39930:445219] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:35:42.802 plugin-container[39930:445219] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:35:42.802 plugin-container[39930:445219] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:35:42.802 plugin-container[39930:445227] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:35:42.802 plugin-container[39930:445227] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:35:47.406 plugin-container[39939:445385] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:35:47.406 plugin-container[39939:445385] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:35:47.409 plugin-container[39939:445385] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:35:47.409 plugin-container[39939:445385] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:35:47.409 plugin-container[39939:445383] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:35:47.409 plugin-container[39939:445383] nil host used in call to allowsAnyHTTPSCertificateForHost:
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+2022-06-21 23:36:28.662 plugin-container[40019:446564] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:36:28.662 plugin-container[40019:446564] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:36:28.712 plugin-container[40019:446564] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:36:28.712 plugin-container[40019:446564] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:36:28.712 plugin-container[40019:446568] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:36:28.712 plugin-container[40019:446568] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+2022-06-21 23:47:36.977 plugin-container[40894:456587] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:47:37.059 plugin-container[40894:456587] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:47:37.061 plugin-container[40894:456587] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:47:37.061 plugin-container[40894:456587] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:47:37.061 plugin-container[40894:456589] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:47:37.061 plugin-container[40894:456589] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+2022-06-21 23:47:54.687 plugin-container[40926:457128] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:47:54.687 plugin-container[40926:457128] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:47:54.690 plugin-container[40926:457128] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:47:54.690 plugin-container[40926:457128] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:47:54.690 plugin-container[40926:457133] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:47:54.690 plugin-container[40926:457133] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+2022-06-21 23:49:16.725 plugin-container[41024:458344] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:49:16.725 plugin-container[41024:458344] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:49:16.728 plugin-container[41024:458344] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:49:16.728 plugin-container[41024:458344] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:49:16.729 plugin-container[41024:458342] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:49:16.729 plugin-container[41024:458342] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+2022-06-21 23:50:30.467 plugin-container[41129:459507] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:50:30.467 plugin-container[41129:459507] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:50:30.470 plugin-container[41129:459507] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:50:30.470 plugin-container[41129:459507] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:50:30.470 plugin-container[41129:459511] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:50:30.470 plugin-container[41129:459511] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+2022-06-21 23:57:11.514 plugin-container[41634:464576] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:57:11.514 plugin-container[41634:464576] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:57:11.557 plugin-container[41634:464576] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:57:11.557 plugin-container[41634:464576] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:57:11.557 plugin-container[41634:464591] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:57:11.558 plugin-container[41634:464591] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Invalid port. Exiting...
+Invalid port. Exiting...
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
